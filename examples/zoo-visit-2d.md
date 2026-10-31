@@ -1,3 +1,5 @@
+> Historical optional story example. Names, ratios and timing below belong to that example only. Follow ../SYSTEM_PROMPT.md for current defaults, integrated audio, concurrency, reference reuse and required final export checks. This file does not override the permanent couple for a couple story.
+
 # Finn’s Day at the Zoo — 2D workflow
 
 Reusable example for recreating a narrated zoo comedy in 16:9 flat 2D. This story keeps the name and narration from its 3D version; a new story should choose a fresh protagonist name. Follow [SYSTEM_PROMPT.md](../SYSTEM_PROMPT.md) for account verification, browser recovery, automatic production and mandatory tool policies.
@@ -11,9 +13,9 @@ The completed reference run contained 14 clips totaling 79.583338 seconds, appro
 3. Plan every beat's incoming state, action and endpoint. Create one reviewed location reference for each recurring set, without Finn; use it in Reference Photo 2 at that location.
 4. Set Image Type to 2D, Consistent Character ON, Narration Video ON, Creative mode OFF, image enhancement OFF, Advanced Mode OFF, Lipsync OFF and public sharing OFF.
 5. Generate and inspect the starting image. Verify identity, interaction gaze, fixed layout, anatomy, prop state and space for movement before selecting it.
-6. Enter only visual motion instructions. Click Create Video, then CloneVoice.ai → Category: System → Beau Whitaker New → scene narration → Import Speech. Preview the generated audio, then click Create Narration Video. Use the available verified labels if the UI changes.
-7. Record the submitted job and inspect it before retrying. Review the completed clip and its actual endpoint before finalizing the next connected frame. Use endpoint observations in the prompt, not last-frame identity references.
-8. Add each accepted clip once in order. Review joins, press Auto Align Clips on populated relevant tracks, save as **Finn’s Day at the Zoo — 2D**, verify save success and play through to the end. Retain the finished editor tab. Export only when requested.
+6. Enter only visual motion instructions. Click Create Video, then CloneVoice.ai → Category: System → Beau Whitaker New → scene narration → Import Speech. Confirm the integrated audio is ready, then click Create Narration Video; review speech in the final pass. Use the available verified labels if the UI changes.
+7. Record the submitted job and inspect it before retrying. Prepare the next frame using planned handoffs while earlier clips render; review actual joins in the final pass. Use endpoint observations in the prompt, not last-frame identity references.
+8. Add each accepted clip once in order. Review joins, press Auto Align Clips on populated relevant tracks, save as **Finn’s Day at the Zoo — 2D**, verify save success and play through to the end. Retain the finished editor tab. Save and export by default unless the user requests otherwise.
 
 ## Master character
 

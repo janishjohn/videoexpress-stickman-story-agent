@@ -1,8 +1,10 @@
+> Historical optional story example. Names, ratios and timing below belong to that example only. Follow ../SYSTEM_PROMPT.md for current defaults, integrated audio, concurrency, reference reuse and required final export checks. This file does not override the permanent couple for a couple story.
+
 # Experimental story: The World's Clumsiest Diamond Thief
 
 16:9, colorful cinematic stickman comedy. Target 30–40 seconds, eight separate 3–5 second Beau Whitaker narration clips. Durations below must be measured after generation; this is a production plan, not a completed render. The first version is 2D; for a requested 3D remake, preserve its approved narration and save a separate 3D project.
 
-Use the existing approved VideoExpress and CloneVoice route. The user reports LTX 2.5 for VideoExpress; verify any visible model label and do not claim backend verification if the UI does not expose it. Import narration directly from CloneVoice into VideoExpress and use imported clip boundaries as the final timing authority.
+Use the existing approved VideoExpress and CloneVoice route. The user reports LTX 2.5 for VideoExpress; verify any visible model label and do not claim backend verification if the UI does not expose it. Create narration through VideoExpress's integrated speech dialog and use actual durations as timing evidence.
 
 Create a new consistent master: smooth white circular head, teal eyes, black stick limbs, white hands, black oval shoes, short red scarf and small charcoal burglar satchel. Museum palette: midnight blue, cyan diamond light, red alarms, warm guard flashlight. The guard is a distinct taller stickman with a navy cap. Keep the diamond singular and visibly track which hand or location holds it.
 
@@ -19,4 +21,4 @@ For the 3D version, generate a new full-body 3D puppet reference rather than reu
 | 07 | His getaway ended beneath a shutter, directly at the security guard's feet. | Low fixed view; cart rolls under a partly lowered shutter and stops at a padded barrier beside the guard's boots. Milo pitches forward into a crouch, still holding the diamond. |
 | 08 | Milo offered the diamond back. The guard offered him a ride downtown. | Medium two-shot; Milo sheepishly hands the diamond to the guard, who takes his wrist and guides him toward the exit. Hold the embarrassed expression briefly for the punchline. |
 
-Generate audio first, revise any line outside 3–5 seconds, then write exact timed video prompts from the measured clips. Use each keyframe to stage the beginning of its action. Keep essential movement and payoff before the audio endpoint; trim only excess video. Inspect anatomy, prop continuity, actual animation, comic timing, every paired boundary, and final saved project. Preserve the previous phone-break project. Export only when explicitly requested.
+Plan natural speech for the requested runtime, create it inside VideoExpress, and measure actual clip durations. Use each keyframe to stage the beginning of its action. Keep essential movement and payoff before the audio endpoint; trim only excess video. Inspect anatomy, prop continuity, actual animation, comic timing, every paired boundary, and final saved project. Preserve the previous phone-break project. Save and export by default unless the user requests otherwise.

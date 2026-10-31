@@ -1,8 +1,10 @@
+> Optional continuity illustration. Ben is an example identity, not a replacement for the permanent couple. Follow ../SYSTEM_PROMPT.md for current production and export rules.
+
 # Funny catching-cat story: continuous action plan
 
 This is a revised storyboard, not a claim that the existing saved video has been regenerated. Use the same story's approved Ben character master for revisions. Keep the door left, window back-left, sofa right, lamp far-right and rug center. Ben looks toward the cat. Keep the established camera side; any reframing preserves the physical state.
 
-Plan the full sequence before rendering. Finalize each next source image against the actual preceding clip endpoint, rather than forcing that clip to match an already-generated still.
+Plan the full sequence before rendering. Prepare each next source image from the planned preceding outgoing state while earlier clips render. Review actual joins in the final pass and correct material discontinuities; per-submission endpoint playback is not mandatory.
 
 | Scene | Source frame / incoming state | One new action | Endpoint → next source frame | Framing |
 | --- | --- | --- | --- | --- |
