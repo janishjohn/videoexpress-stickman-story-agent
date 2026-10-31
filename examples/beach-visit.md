@@ -1,3 +1,5 @@
+> Historical optional story example. Names, ratios and timing below belong to that example only. Follow ../SYSTEM_PROMPT.md for current defaults, integrated audio, concurrency, reference reuse and required final export checks. This file does not override the permanent couple for a couple story.
+
 # A Little Day by the Sea
 
 16:9, polished stylized 3D. Use VideoExpress Narration Video → Create Video → CloneVoice → System Voice → Beau Whitaker → Import Speech → Create Narration Video. Advanced Mode stays off. Visual prompts contain no narration or voice instructions.
